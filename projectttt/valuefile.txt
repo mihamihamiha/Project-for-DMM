@@ -1,0 +1,3 @@
+Solar_panels(1): 300/hour 1200/day 8400/week 33600/month
+Wind_turbines(1): 380/hour 760/day 5320/week 21280/month
+Hydropower(1): 550/hour 0/day 0/week 0/month
