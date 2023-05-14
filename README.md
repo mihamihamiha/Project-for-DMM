@@ -22,3 +22,5 @@ Task4.OrderAlgo(Task4.caselist): Sorts the Task2's file in ascendant order based
 
 Task 5: Task5()
 Checks if there are any malfunctions within the file. If the output is too low then it raises an error and tells the user where; If there is a malfuntion ( if one resource does not produce anything on a daily basis ) it means that the resource is not powered, thus creating an error
+
+PS: the project file is the projectttt => src/main/scala => project.scala . The files that can be compiled with it are in projectttt => src/main/scala => resources.txt   and   projectttt => valuefile.txt
